@@ -12,18 +12,13 @@ This Python program generates a pattern based on a user-specified odd number. Th
    - If you enter an odd number, the program generates the pattern.
    - If you enter an even number, you will be prompted again to enter an odd number.
 
-## Example Outputs
-
-### Example 1
+## Example Output:
 Please enter an odd number: 5 
 X * * * #
 * X * # *
 * * X * *
 * # * X *
 # * * * X
-
-
-
 
 
 ## Requirements
