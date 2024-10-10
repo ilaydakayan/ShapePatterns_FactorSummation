@@ -9,22 +9,13 @@ This Python program generates a pattern based on a user-specified odd number. Th
 
 1. Run the program.
 2. You will be prompted to enter an odd number:
-   - If you enter an odd number, the program generates the pattern.
-   - If you enter an even number, you will be prompted again to enter an odd number.
+   If you enter an odd number, the program generates the pattern.
+   If you enter an even number, you will be prompted again to enter an odd number.
 
-## Example Output:
-Please enter an odd number: 5 
-X * * * #
-* X * # *
-* * X * *
-* # * X *
-# * * * X
 
 
 ## Requirements
-
-- Python 3.x is required to run this program.
+Python 3.x is required to run this program.
 
 ## License
-
 This project is licensed under the MIT License.
